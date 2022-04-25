@@ -1,22 +1,17 @@
 {
   "files": {
     "main.css": "/thakshak_portfolio/static/css/main.460c4028.css",
-    "main.js": "/thakshak_portfolio/static/js/main.47ffd2dc.js",
-    "static/media/cv.pdf": "/thakshak_portfolio/static/media/cv.1676dcdc83730930d888.pdf",
+    "main.js": "/thakshak_portfolio/static/js/main.6ad5d378.js",
+    "static/media/cv.pdf": "/thakshak_portfolio/static/media/cv.5d7dcb9602a78c72a896.pdf",
     "static/media/me.png": "/thakshak_portfolio/static/media/me.e2f062438e7fbcdba218.png",
-    "static/media/portfolio5.png": "/thakshak_portfolio/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
     "static/media/me-about.jpeg": "/thakshak_portfolio/static/media/me-about.345b5e2cacc5af246a3a.jpeg",
-    "static/media/portfolio2.jpg": "/thakshak_portfolio/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
-    "static/media/portfolio6.jpg": "/thakshak_portfolio/static/media/portfolio6.72d1107e313049cf15a7.jpg",
-    "static/media/portfolio1.jpg": "/thakshak_portfolio/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
-    "static/media/portfolio3.jpg": "/thakshak_portfolio/static/media/portfolio3.cbab42559fe73e73906f.jpg",
-    "static/media/portfolio4.jpg": "/thakshak_portfolio/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "static/media/portfolio5.png": "/thakshak_portfolio/static/media/portfolio5.e43d86e1839d5cdb48a6.png",
     "index.html": "/thakshak_portfolio/index.html",
     "main.460c4028.css.map": "/thakshak_portfolio/static/css/main.460c4028.css.map",
-    "main.47ffd2dc.js.map": "/thakshak_portfolio/static/js/main.47ffd2dc.js.map"
+    "main.6ad5d378.js.map": "/thakshak_portfolio/static/js/main.6ad5d378.js.map"
   },
   "entrypoints": [
     "static/css/main.460c4028.css",
-    "static/js/main.47ffd2dc.js"
+    "static/js/main.6ad5d378.js"
   ]
 }
